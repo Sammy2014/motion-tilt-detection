@@ -82,6 +82,3 @@ This means the system self-calibrates to wherever it is mounted — no manual tu
 | LED anode (via 220Ω) | Pin 13 |
 | Buzzer positive | Pin 8 |
 
----
-
-## Files
